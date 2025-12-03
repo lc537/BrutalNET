@@ -1,5 +1,5 @@
 # Author: cybermad
-# BrutalNET A DoS denial-of-service through ARP Spoofing.
+# BrutalNET is network denial-of-service through ARP Spoof for pentest purposes
 
 import os
 
@@ -33,19 +33,21 @@ W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
 Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
-      
-{r}    
-    {g}[*]{r}      {h}ARP Spoofing Tool.{r}               {g}[*]{r} 
-    {g}[*]{r}      {h}Version : 1.0{r}                    {g}[*]{r} 
+
+{r}
+    {g}[*]{r}      {h}ARP Attack Tool.{r}                 {g}[*]{r}
+    {g}[*]{r}      {h}Version : 1.0{r}                    {g}[*]{r}
     {g}[*]{r}      {h}Created :{c} {c}cybermad{r}               {g}[*]{r}
     {g}[*]{r}      {h}github  : github.com/cybermads{r}   {g}[*]{r}
     {g}[*]{r}      {h}youtube : youtube.com/@cybermads{r} {g}[*]{r}
             
-    {c}ARP Network device discovery.{r}
+    {c}network device discovery.{r}
 
           """)
 def scan():
     banner()
     iface = input(f"[{c}+{r}] interface  {c}:{r} ")
     os.system(f"arp-scan -l -I {iface}")
+
     input(f"[{c}+{r}] Finish{c}...{r}")
+
