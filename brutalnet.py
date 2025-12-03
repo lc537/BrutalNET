@@ -1,5 +1,5 @@
 # Author: cybermad
-# BrutalNET A DoS denial-of-service through ARP Spoofing.
+# BrutalNET is network denial-of-service through ARP Spoof for pentest purposes
 
 import os
 from lib.spoof import *
@@ -19,13 +19,13 @@ def banner():
    / /_/ / /  / /_/ / /_/ /_/ / / /|  / /___  / /    
   /_____/_/   \__,_/\__/\__,_/_/_/ |_/_____/ /_/         
 {r}    
-    {g}[*]{r}      {h}ARP Spoofing Tool.{r}               {g}[*]{r} 
+    {g}[*]{r}      {h}ARP Attack Tool.{r}                 {g}[*]{r} 
     {g}[*]{r}      {h}Version : 1.0{r}                    {g}[*]{r} 
     {g}[*]{r}      {h}Created :{c} {c}cybermad{r}               {g}[*]{r}
     {g}[*]{r}      {h}github  : github.com/cybermads{r}   {g}[*]{r}
     {g}[*]{r}      {h}youtube : youtube.com/@cybermads{r} {g}[*]{r}
             
-    {c}A DoS denial-of-service through ARP Spoofing.{r}
+    {c}network denial-of-service through ARP Spoof for pentest purposes{r}
             
     {g}[1]{r} ARP Network denial of service
     {g}[2]{r} ARP Network device discovery
@@ -50,6 +50,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
 
 
 
