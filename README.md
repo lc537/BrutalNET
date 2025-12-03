@@ -1,8 +1,22 @@
-# BrutalNET 🔥
-- sends ARP packets to every host on the network poisoning its ARP table.
-- When the ARP table becomes corrupted, the data flow is completely distorted, leading to network failure.
-<img width="1447" height="844" alt="image" src="https://github.com/user-attachments/assets/4b9506dd-e451-4809-89ac-81d5a8937b7a" />
-<img width="2246" height="1120" alt="image" src="https://github.com/user-attachments/assets/c46cfa64-6c94-4996-8b4e-e3eb05fb4941" />
+# BrutalNET - ARP Attack Tool 🔥
+- Sends spoofed ARP packets with random MAC addresses to all hosts, corrupting their ARP tables and causing a network denial‑of‑service.
+<img width="1746" height="1122" alt="image" src="https://github.com/user-attachments/assets/fd75287c-0a06-4718-a6f6-8ce0e9278c07" />
+
+<img width="2307" height="1230" alt="image" src="https://github.com/user-attachments/assets/14ebdd50-6526-4eb7-815b-61af1c36d73c" />
+
+
+# ScreenShot 📸
+<img width="1496" height="879" alt="image" src="https://github.com/user-attachments/assets/7b98f033-ccc9-422c-af06-2df36bea99ba" />
+<img width="1726" height="1172" alt="image" src="https://github.com/user-attachments/assets/e5d17295-41de-4087-a137-62289264a68d" />
+<img width="1887" height="1166" alt="image" src="https://github.com/user-attachments/assets/77e4fa9e-7203-4185-b814-7a430bdec74c" />
+
+
+
+
+# Overview 😈
+https://github.com/user-attachments/assets/0d9e237d-6833-4889-82b1-bc833e60131a
+
+
 
 # Tutorial ❓
 ```
@@ -15,11 +29,10 @@ cd BrutalNET
 ls
 ```
 ```
-python brutlnet.py
+python brutalnet.py
 ```
 
 
-# WINDOWS ✅
 # LINUX ✅
 
 
